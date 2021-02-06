@@ -34,8 +34,9 @@ How does long term salary growth vary between the two (Bachelor vs Certificate)?
 College Scorecard - University data and data by field of study:  
 https://collegescorecard.ed.gov/data/documentation/
 
-List of occupations with salary information and education requirements:  
+Career One Stop: List of occupations with salary information and education requirements: 
 https://www.careeronestop.org/Developers/WebAPI/Certifications/list-certifications.aspx
+* Returns Salary & education requirements for a given occupation: https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails
 
 CollegeAI: salary post graduation and tuition cost data  
 https://collegeai.com/
