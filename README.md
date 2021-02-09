@@ -29,15 +29,16 @@ How does long term salary growth vary between the two (Bachelor vs Certificate)?
 
 
 ## Datasets to be used:
-
-### JSON APIs
 College Scorecard - University data and data by field of study:  
 https://collegescorecard.ed.gov/data/documentation/
 
-Career One Stop: List of occupations with salary information and education requirements: 
+Career One Stop - List of occupations with salary information and education requirements:  
 https://www.careeronestop.org/Developers/WebAPI/Certifications/list-certifications.aspx
 * Returns Salary & education requirements for a given occupation: https://api.careeronestop.org/api-explorer/home/index/Occupations_GetOccupationDetails
 
+
+## Datasets Not Use
+### JSON APIs
 CollegeAI: salary post graduation and tuition cost data  
 https://collegeai.com/
 
@@ -52,14 +53,34 @@ https://www.kaggle.com/wsj/college-salaries
 Salary based on position:  
 https://www.bls.gov/oes/2018/may/oes_fl.htm
 
-## Cost of tuition
-* Which jobs require degree vs don’t require
-* Salary based on position
-* What is the saturation of degreed applicants compared to historic saturation
+
+## Analysis Questions
+* What is the cost of tuition for each of the education levels?
+* What is the average annual salary for all IT occupations?
+* What is the average distribution for education requirments for all IT occupations?
+* What is the average return on each education level within the IT field?
+
 
 ## Rough breakdown of tasks:
-* Gather data sets for analysis
-* Clean
-* Breakdown tuition costs for a 4 year degree program vs. certificate cost in Florida.
-* Look into careers in the computer data science field.
-* Compare success rates 
+1. Gather data sets for analysis  
+1. Clean  
+1. Breakdown tuition costs for a 4 year degree program vs. certificate cost in Florida.  
+1. Look into careers in the computer data science field.  
+1. Compare success rates  
+
+
+## Next Steps:
+* Combine all data clean up logic into 1 jupyter notebook. -- **Christina**
+* Distribute workload.
+* Analyze data and create visualizations.
+  * Cost of tuition -- **Howard**
+  * Annual Salary -- **Alex**
+  * Distribution for education requirments -- **Christina**
+  * Average return -- **Do together**
+* Combine all visualization logic into 1 jupyter notebook file.
+* Save visualizations as .png files & add to the README file.
+* Summarize findings in README file.
+* Create power point presentation.
+* Clean up the old notebooks from the repository.
+
+
