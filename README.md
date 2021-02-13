@@ -48,7 +48,8 @@ We defined ROI as salary over time less cost of education.
 
 ![fig3](/Images/ROI_line_plot.png)  
 
-
+## Presentation link
+[Value of College](/Value_of_college.pdf)
 
 ## Datasets used:
 College Scorecard - University data and data by field of study:  
