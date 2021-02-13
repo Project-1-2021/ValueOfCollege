@@ -17,34 +17,6 @@ Alternate Hypothesis:
 Getting a certificate/technical degree in IT is a better investment in Florida  
 
 
-
-## What is the cost of tuition for each of the education levels?
-The following graph shows the cost of each degree from a Florida school.  
-Our data listed the cost per year and we assumed an Associate's degree requires 2 years and a Bachelor's degree requires 4.  
-As expected the Bachelor's degree is more expensive overall.  
-
-![fig1](/Images/Stat_Analysis.png)
-
-## What is the average annual salary for all IT occupations?  
-There is a wide variance across IT occupations with the median around $70k annualy.
-![annual_salaries](/Images/Annual_salaries.png). 
-
-This is the median of all median IT occupations.  
-
-![annual_salaries](/Images/Median_salary_all.png)
-
-
-## What is the average distribution for education requirments for all IT occupations?
-Over 50% of the IT occupations have at least a bachelor's degree. However, there is a good amount of current position holders in the IT field with a Highschool diploma or less.  
-
-![annual_salaries](/Images/Pie_distribution.png)
-
-## What is the average return on each education level within the IT field?  
-
-![fig2](/Images/Box_Plot.png)  
-
-![fig3](/Images/ROI_line_plot.png)  
-
 ## Research questions to answer:
 Scope: IT Field in Florida  
 Is a 4 year degree a better investment vs a technical/certificate degree in Florida?  
